@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "felixfbecker.php-intellisense",
+        "bmewburn.vscode-intelephense-client",
+        "ikappas.phpcs",
+        "felixfbecker.php-debug",
+        "neilbrayfield.php-docblocker",
+        "formulahendry.auto-rename-tag",
+        "editorconfig.editorconfig",
+        "mehedidracula.php-namespace-resolver"
+    ]
+}

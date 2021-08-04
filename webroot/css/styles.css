@@ -1,0 +1,9 @@
+.body-user {
+    width: 40%;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+    margin-top: 150px;
+    box-shadow: 4px 5px 13px rgba(95, 97, 96, 0.767);
+    border-radius: 12px;
+}
